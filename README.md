@@ -24,8 +24,7 @@ This is a repository to showcase skills, share projects and track my progress in
     
      * [Covid 19 Data Exploration](https://github.com/JasminInsights/Data-Analyst-Portfolio/edit/main/README.md#covid-19-data-exploration)
        
-     * [Nashville Housing Data Cleaning](https://github.com/JasminInsights/Data-Analyst-Portfolio/edit/main/README.md#nashville-housing-data-cleaning)
-  
+     * [Nashville Housing Data Cleaning](https://github.com/JasminInsights/Data-Analyst-Portfolio?tab=readme-ov-file#nashville-housing-data-cleaning)
   * R
   
      * [Legendary Pokémon Analysis (Study Project)](https://github.com/JasminInsights/Data-Analyst-Portfolio/edit/main/README.md#legendary-pok%C3%A9mon-analysis)
