@@ -14,7 +14,7 @@ This is a repository to showcase skills, share projects and track my progress in
 # Table of Contents
 * [About]()
 
-* [Portfolio Projects](portfolioprojects)
+* [Portfolio Projects](#portfolioprojects)
   * Python
    
      * [Analyzing the Factors Contributing to the Success of a Movie]()
