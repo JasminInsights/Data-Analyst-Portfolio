@@ -14,7 +14,7 @@ This is a repository to showcase skills, share projects and track my progress in
 # Table of Contents
 * [About]()
 
-* [Portfolio Projects](#portfolioprojects)
+* [Portfolio Projects](https://github.com/JasminInsights/Data-Analyst-Portfolio/tree/main?tab=readme-ov-file#portfolio-projects)
   * Python
    
      * [Analyzing the Factors Contributing to the Success of a Movie]()
