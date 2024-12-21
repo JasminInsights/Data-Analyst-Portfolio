@@ -27,7 +27,7 @@ This is a repository to showcase skills, share projects and track my progress in
      * [Nashville Housing Data Cleaning](https://github.com/JasminInsights/Data-Analyst-Portfolio?tab=readme-ov-file#nashville-housing-data-cleaning)
   * R
   
-     * [Legendary Pokémon Analysis (Study Project)](https://github.com/JasminInsights/Data-Analyst-Portfolio/edit/main/README.md#legendary-pok%C3%A9mon-analysis)
+     * [Legendary Pokémon Analysis (Study Project)](
   
   * Excel / Google Sheets
     
