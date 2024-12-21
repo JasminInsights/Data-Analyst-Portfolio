@@ -62,7 +62,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 <b>Goal:</b> To examine the sales history of the store and extract insights on its performance, as well as to identify potential improvements that can be implemented.
 
-<b>Code:</b> [Tech Store Sales Analysis.ipynb]()
+<b>Code:</b> [Tech Store Sales Analysis.ipynb](https://github.com/JasminInsights/Portfolio-Projects/blob/main/Tech%20Store%20Sales%20Analysis.ipynb)
 
 <b>Description:</b> The dataset contains a list of sales records. The records include the products for sale and order information(order id, order date, price, quantity ordered and purchase address). The project includes the following steps: data loading, data cleaning and preprocessing, EDA (exploratory data analysis), analyzing sales data and hypothesis testing.
 
@@ -74,7 +74,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## Nashville Housing Data Cleaning
 
-<b>Code:</b> [Data Cleaning Project Queries: Nashville Housing.sql]()
+<b>Code:</b> [Data Cleaning Project Queries: Nashville Housing.sql](https://github.com/JasminInsights/Portfolio-Projects/blob/main/Data%20Cleaning%20Project%20Queries%3A%20Nashville%20Housing.sql)
 
 <b>Description:</b> The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
 
@@ -84,7 +84,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## Covid 19 Data Exploration
 
-<b>Code:</b> [COVID Portfolio Project.sql]()
+<b>Code:</b> [COVID Portfolio Project.sql](https://github.com/JasminInsights/Portfolio-Projects/blob/main/COVID%2019%20Portfolio%20Project.sql)
 
 <b> Description:</b> The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
 
@@ -96,7 +96,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 <b>Goal:</b> To predict Pokémon status based on their characteristics and rank their importance in determining whether a Pokémon is classified as legendary.
 
-<b>Code:</b> [Legendary Pokémon Analysis (Study Project)]()
+<b>Code:</b> [Legendary Pokémon Analysis (Study Project)](https://github.com/JasminInsights/Portfolio-Projects/blob/main/Legendary%20Pokémon%20Analysis.ipynb)
 
 <b>Description:</b> The dataset contains a list of Pokémon. The records include their characteristics such as attack, defense, type and size. The project includes the following steps: data loading, data cleaning EDA (exploratory data analysis), analyzing characteristics of different Pokémon.
 
