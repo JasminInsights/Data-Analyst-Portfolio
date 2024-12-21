@@ -1,10 +1,10 @@
-Tianna Parris - Data Analyst Portfolio
+Jasmin Powell - Data Analyst Portfolio
 About
-Hi, I'm Tianna! I have an analytical background in Biochemistry and currently, I am on track to completing my degree in Data Science (MS. Data Science). I have developed a strong foundation in the life sciences and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist.
+Hi, I'm Jasmin! I am a passionate and driven professional with a background in clinical research and a deep interest in public health. With years of hands-on experience in the healthcare sector, I've developed a strong foundation in data analysis, research methodologies, and the importance of evidence-based decision-making. Currently, I am pursuing a Master's degree in Public Health to expand my expertise and further refine my skills in addressing health challenges on a larger scale.
 
-During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in laboratory techniques, data management, and statistical analysis, which I believe will be valuable assets in my role as a data specialist.
+In parallel with my academic journey, I am self-learning data analytics, focusing on tools like Python, R, SQL, and Tableau to complement my clinical research background. I am excited about the intersection of public health, data science, and technology, and am eager to apply data-driven insights to improve healthcare systems, optimize patient outcomes, and contribute to impactful public health initiatives.
 
-In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
+With a commitment to continuous learning and a passion for making a difference, I am seeking opportunities to integrate my diverse skill set in clinical research, public health, and data analytics to help drive meaningful change in the healthcare industry.
 
 My CV in pdf.
 
@@ -91,11 +91,10 @@ Skills: data cleaning, data analysis, data visualization.
 Technology: Tidyverse
 
 Education
-University of Colorado, Boulder: Master of Science - MS, Data Science, Dec 2022 - Dec 2024
+University of Louisiana : Masters of Public Health , October 2024- May 2026
 
-The University of the West Indies, Mona: Bachelor's degree, Biochemistry and Molecular Biology, 2019 - 2022
+University of Maryland Eastern Shore: Bachelors of Science in Rehabilitaion Science , December 2017
 
-Pre University School: Associate's degree, Science and Mathematics, 2017 - 2019
 
 Certificates
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
@@ -105,4 +104,4 @@ Tableau (Oct 2022) (Coursera - University of California, Davis)
 Python for Data Science (Feb 2023) (Coursera - University of Colorado Boulder)
 Contacts
 LinkedIn: @tiannaparris
-Email: parristianna@yahoo.com
+Email: powell.jas94@outlook.com
