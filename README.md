@@ -46,7 +46,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## Analyzing the Factors Contributing to the Success of a Movie 
 
-<b>Code:</b> [Analyzing the Factors Contributing to the Success of a Movie.ipynb](Analyzing the Factors Contributing to the Success of a Movie.ipynb)
+<b>Code:</b> [Analyzing the Factors Contributing to the Success of a Movie.ipynb](https://github.com/JasminInsights/Portfolio-Projects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
 
 <b>Goal:</b> To determine what factors contribute the most to a movie's success.
 
