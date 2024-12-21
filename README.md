@@ -17,19 +17,19 @@ This is a repository to showcase skills, share projects and track my progress in
 * [Portfolio Projects](https://github.com/JasminInsights/Data-Analyst-Portfolio/tree/main?tab=readme-ov-file#portfolio-projects)
   * Python
    
-     * [Analyzing the Factors Contributing to the Success of a Movie]()
+     * [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/JasminInsights/Data-Analyst-Portfolio/edit/main/README.md#analyzing-the-factors-contributing-to-the-success-of-a-movie)
   
-     * [Tech Store Sales Analysis]()
+     * [Tech Store Sales Analysis](https://github.com/JasminInsights/Data-Analyst-Portfolio/edit/main/README.md#tech-store-sales-analysis)
    
   * SQL
     
-     * [Covid 19 Data Exploration]()
+     * [Covid 19 Data Exploration](https://github.com/JasminInsights/Data-Analyst-Portfolio/edit/main/README.md#covid-19-data-exploration)
        
-     * [Nashville Housing Data Cleaning]()
+     * [Nashville Housing Data Cleaning](https://github.com/JasminInsights/Data-Analyst-Portfolio/edit/main/README.md#nashville-housing-data-cleaning)
   
   * R
   
-     * [Legendary Pokémon Analysis (Study Project)]()
+     * [Legendary Pokémon Analysis (Study Project)](https://github.com/JasminInsights/Data-Analyst-Portfolio/edit/main/README.md#legendary-pok%C3%A9mon-analysis)
   
   * Excel / Google Sheets
     
@@ -46,7 +46,7 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-<B> Analyzing the Factors Contributing to the Success of a Movie </B>
+## Analyzing the Factors Contributing to the Success of a Movie 
 
 <b>Code:</b> [Analyzing the Factors Contributing to the Success of a Movie.ipynb]()
 
