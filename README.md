@@ -35,11 +35,11 @@ This is a repository to showcase skills, share projects and track my progress in
   
   * Power BI
 
-* [Education]()
+* [Education](https://github.com/JasminInsights/Data-Analyst-Portfolio?tab=readme-ov-file#education)
 
-* [Certificates]()
+* [Certificates](https://github.com/JasminInsights/Data-Analyst-Portfolio?tab=readme-ov-file#certificates)
 
-* [Contact]()
+* [Contacts](https://github.com/JasminInsights/Data-Analyst-Portfolio?tab=readme-ov-file#contacts)
 
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
