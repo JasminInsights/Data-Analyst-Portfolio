@@ -22,7 +22,7 @@ This is a repository to showcase skills, share projects and track my progress in
      * [Tech Store Sales Analysis](https://github.com/JasminInsights/Data-Analyst-Portfolio?tab=readme-ov-file#tech-store-sales-analysis)
   * SQL
     
-     * [Covid 19 Data Exploration](https://github.com/JasminInsights/Data-Analyst-Portfolio/edit/main/README.md#covid-19-data-exploration)
+     * [Covid 19 Data Exploration](https://github.com/JasminInsights/Data-Analyst-Portfolio?tab=readme-ov-file#covid-19-data-exploration)
        
      * [Nashville Housing Data Cleaning](https://github.com/JasminInsights/Data-Analyst-Portfolio?tab=readme-ov-file#nashville-housing-data-cleaning)
   * R
