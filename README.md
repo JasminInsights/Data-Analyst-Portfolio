@@ -17,7 +17,7 @@ This is a repository to showcase skills, share projects and track my progress in
 * [Portfolio Projects](https://github.com/JasminInsights/Data-Analyst-Portfolio/tree/main?tab=readme-ov-file#portfolio-projects)
   * Python
    
-     * [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/JasminInsights/Data-Analyst-Portfolio/edit/main/README.md#analyzing-the-factors-contributing-to-the-success-of-a-movie)
+     * [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/JasminInsights/Data-Analyst-Portfolio?tab=readme-ov-file#analyzing-the-factors-contributing-to-the-success-of-a-movie)
   
      * [Tech Store Sales Analysis](https://github.com/JasminInsights/Data-Analyst-Portfolio/edit/main/README.md#tech-store-sales-analysis)
    
